@@ -68,7 +68,7 @@ Push-системы мониторинга:
 
     - Prometheus (Pull)
     - TICK (Push)
-    - Zabbix (Push)
+    - Zabbix (Push и pull в зависимости от конфигураций)
     - VictoriaMetrics (Pull)
     - Nagios (Pull)
 
